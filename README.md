@@ -1,5 +1,5 @@
 # PruebaUno
 
-##Primera clase
+## Primera clase
 
-###Hola
+### Hola
